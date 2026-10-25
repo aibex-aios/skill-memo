@@ -1,6 +1,6 @@
 # skill-memo
 
-Paket von AIbex AIOS mit dem Skill `memo` (Memo-Stil für Projekte in AIOS-Vaults), Version 6.0.0.
+Paket von AIbex AIOS mit dem Skill `memo` (Memo-Stil für Projekte in AIOS-Vaults), Version 6.0.1.
 
 ```bash
 aios --fetch skill-memo

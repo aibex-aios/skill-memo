@@ -1,6 +1,6 @@
 ---
 name: memo
-version: 6.0.0
+version: 6.0.1
 description: >
   Memo-Stil für Projekte in AIOS-Vaults: legt Memos und Specs im @Memo/- bzw. @Spec/-Ordner
   des Projekts an — Nummernvergabe, Dateiname, Header-Block bzw. Spec-Frontmatter,
